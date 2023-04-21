@@ -17,7 +17,7 @@
 
 - :zap: В настоящий момент работаю над своим сайтом-портфолио.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/etherealelement) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vitalik.safonov@list.ru)
+- :mailbox: Как связаться со мной:[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vitalik.safonov@list.ru)
 
 ---
 
@@ -89,16 +89,19 @@
 
 <!-- ### 💻 Пройденные курсы:
 
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| htmlAcademy.ru/Профессианальная вестка сайтов                   | 01/2022 - 05/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+*   HTML&CSS professional website layout [htmlacademy](https://htmlacademy.ru/study) (completed)  
+    ![Certificate](/images/2045485_page-0001.jpg)  
+*   JavaScipt Basic by PurpleSchool [PurpleSchool] (https://purpleschool.ru/) (completed)
+    ![Certificate](/images/VItaly_Safonov_9.png)
+*   JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) 
+*   HEXLET: Basics of Programming (completed)
+*   HEXLET: JavaScript Basics (completed)
+*   HEXLET: JS: Массивы (completed)
+*   HEXLET: Command Line Basics(completed)
+*   Udemy: JS and React (in progress)
+*   RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+* * *
 
 --- -->
 
