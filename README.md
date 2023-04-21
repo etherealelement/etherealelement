@@ -17,7 +17,6 @@
 
 - :zap: В настоящий момент работаю над своим сайтом-портфолио.
 
-- :mailbox: Как связаться со мной:[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vitalik.safonov@list.ru)
 
 ---
 
@@ -94,6 +93,21 @@
 
 ---
 
+### ⚙️ GitHub статистика:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=etherealelement&theme=dark&hide_border=true&exclude_days=Sun" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=etherealelement&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
+---
+
 💻 Пройденные курсы:
 
 *   HTML&CSS professional website layout [htmlacademy](https://htmlacademy.ru/study) (completed)  
@@ -112,18 +126,5 @@
 
 * * *
 
-
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=etherealelement&theme=dark&hide_border=true&exclude_days=Sun" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=etherealelement&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=etherealelement)
