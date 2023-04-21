@@ -87,12 +87,14 @@
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+💻 Пройденные курсы:
 
 *   HTML&CSS professional website layout [htmlacademy](https://htmlacademy.ru/study) (completed)  
     ![Certificate](/images/2045485_page-0001.jpg)  
 *   JavaScipt Basic by PurpleSchool [PurpleSchool] (https://purpleschool.ru/) (completed)
     ![Certificate](/images/VItaly_Safonov_9.png)
+*		JavaScipt Advanced by PurpleSchool [PurpleSchool] (https://purpleschool.ru/) (completed)
+    ![Certificate](/images/VItaly_Safonov_11.png)
 *   JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) 
 *   HEXLET: Basics of Programming (completed)
 *   HEXLET: JavaScript Basics (completed)
@@ -103,23 +105,23 @@
 
 * * *
 
---- -->
+
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+![codewars](https://www.codewars.com/users/rsschool_084bac56d5f34cc0/badges/large)
 
 ### ⚙️ GitHub статистика:
 
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=etherealelement&theme=dark&hide_border=true&exclude_days=Sun" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=etherealelement&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=etherealelement)
