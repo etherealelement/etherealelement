@@ -7,7 +7,7 @@
 Я начинающий frontend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.Изучаю frontend с начала 2021 года, непрерывно развиваюсь и изучаю новые технологии. Решаю задачи на CodeWars и LeetCode, постоянно практикуюсь создавая пет-проекты с использованием новых технологий. С каждым разом улучшаю свои навыки программирования и слежу за тем что-бы мой код был более лаконичен и читаем, вобщем живу frontend-разработкой :)
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="images/github-snake.svg" alt="snake"/>
 </p>
 
 - :telescope: Проходил стажировку на open-source проекте DOCT24.
