@@ -16,7 +16,7 @@
 
 - :zap: В настоящий момент работаю над интернет-магазином.
 
-- :mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/etherealelement) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vitalik.safonov@list.ru)
+- :mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-vitaliysafonov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/etherealelement) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vitalik.safonov@list.ru)
 ---
 
 ### 💻 Codewars:
