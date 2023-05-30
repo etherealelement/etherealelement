@@ -1,54 +1,27 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
 # Привет, меня зовут Виталий!
 
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался в 2022 году. Тогда я решил попробывать себя в веб-разработке. На протяжении нескольких месяцев я изучал HTML & CSS, JS. Верстал макеты из Figma, шел от простых проектов  к более сложным. Со временем понял, что frontend это мое призвание и дело всей моей жизни. Я постоянно совершенствую свои знания, навыки и я уверен, что в будущем стану настоящим мастером своего дела, а также хочу открыть свою школу по frontend-разработке. 
+Я начинающий frontend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.Изучаю frontend с начала 2021 года, непрерывно развиваюсь и изучаю новые технологии. Решаю задачи на CodeWars и LeetCode, постоянно практикуюсь создавая пет-проекты с использованием новых технологий. С каждым разом улучшаю свои навыки программирования и слежу за тем что-бы мой код был более лаконичен и читаем, вобщем живу frontend-разработкой :)
 
-- :telescope: Проходил стажировку на проекте DOCT24.
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+- :telescope: Проходил стажировку на open-source проекте DOCT24.
 
 - :seedling: Завершил курсы по frontend-разработке от PurpleSchool.
 
-- :zap: В настоящий момент работаю над своим сайтом-портфолио.
+- :zap: В настоящий момент работаю над интернет-магазином.
 
-
+- :mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/etherealelement) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vitalik.safonov@list.ru)
 ---
-
 
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/rsschool_084bac56d5f34cc0/badges/large)
-
----
-
-### Code example:
-
-**Find the unique number from CODEWARS:** _Write a function called findUnique which returns the only unique number from an array.All numbers in the unsorted array are present twice, except the one you have to find. The numbers are always valid integer values between 1 and 2147483647, so no need for type and error checking. The array contains at least one number and may contain millions of numbers. So make sure your solution is optimized for speed_
-
-    function findUnique(arr) {
-  let uniq = new Set();
-  let uniqSum = 0;
-  let numSum = 0;
-
-
-  for (let index = 0; index < arr.length; index++) {
-    const current = arr[index];
-
-    if(!uniq.has(current)) {
-      uniq.add(current);
-      uniqSum += current;
-    }
-    numSum += current;
-  }
-
-  return uniqSum * 2 - numSum;
-}
-
 
 ---
 
@@ -110,11 +83,8 @@
 💻 Пройденные курсы:
 
 *   HTML&CSS professional website layout [htmlacademy](https://htmlacademy.ru/study) (completed)  
-    ![Certificate](/images/2045485_page-0001.jpg)  
 *   JavaScipt Basic by PurpleSchool [PurpleSchool] (https://purpleschool.ru/) (completed)
-    ![Certificate](/images/VItaly_Safonov_9.png)
-*		JavaScipt Advanced by PurpleSchool [PurpleSchool] (https://purpleschool.ru/) (completed)
-    ![Certificate](/images/VItaly_Safonov_11.png)
+*	JavaScipt Advanced by PurpleSchool [PurpleSchool] (https://purpleschool.ru/) (completed)
 *   JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) 
 *   HEXLET: Basics of Programming (completed)
 *   HEXLET: JavaScript Basics (completed)
