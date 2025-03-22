@@ -67,20 +67,6 @@
 
 ---
 
-💻 Пройденные курсы:
-
-*   HTML&CSS professional website layout [htmlacademy](https://htmlacademy.ru/study) (completed)  
-*   JavaScipt Basic by PurpleSchool [PurpleSchool] (https://purpleschool.ru/) (completed)
-*	JavaScipt Advanced by PurpleSchool [PurpleSchool] (https://purpleschool.ru/) (completed)
-*   JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) 
-*   HEXLET: Basics of Programming (completed)
-*   HEXLET: JavaScript Basics (completed)
-*   HEXLET: JS: Массивы (completed)
-*   HEXLET: Command Line Basics(completed)
-*   Udemy: JS and React (in progress)
-*   RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
-
-* * *
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=etherealelement)
