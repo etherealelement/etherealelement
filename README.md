@@ -1,5 +1,11 @@
 
 <p align="center">
+ <img width="600" src="images/ludskoe.jpg" alt="snake"/>
+</p>
+
+
+
+<p align="center">
  <img width="600" src="images/github-snake.svg" alt="snake"/>
 </p>
 
